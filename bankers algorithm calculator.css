@@ -1,0 +1,39 @@
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.subheading{
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 59px;
+  color: darkgreen;
+}
+
+#basic-addon1{
+  color: black;
+  background-color: transparent;
+  outline: none;
+  border: none;  
+}
+
+input :focus{
+  outline: 0!important;
+}
+
+table input{
+  padding: 8px;
+  border: blueviolet solid;
+  border-radius: 10%;
+}
+
+td,
+th{
+  padding: 5px;
+}
